@@ -7,8 +7,7 @@
 
 int main(void)
 {
-	
-	
+	printf("xxx");
 	
 	
 	return 0;
